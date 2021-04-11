@@ -1,0 +1,4 @@
+Cubo comprobado los movimientos 100%.
+Al poner un algoritmo si acaba en movimiento simple, no lo coge. Si se pone un espacio al final si va bien. El reto ok.
+Programar el seguimiento de 20 caras, parece mas facil que el seguimiento de 20 piezas.
+Empezar haciendo una cara, o sea b1 en b1 etc...
